@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>C Programming Work</title>
+    <style>body{font-family:Arial;max-width:800px;margin:40px auto;padding:20px;line-height:1.6}h1{color:#2c3e50}a{color:#3498db}</style>
+</head>
+<body>
+    <h1>Exercises Done in C Programming Course</h1>
+    <ol>
+        <li>Program 1: Basic I/O and Arithmetic Operations</li>
+        <li>Program 2: If-Else and Switch Case</li>
+        <li>Program 3: For, While, Do-While Loops</li>
+        <li>Program 4: Arrays and Functions</li>
+        <li>Program 5: Structures and Pointers</li>
+    </ol>
+    <p><a href="index.html">← Back to Homepage</a></p>
+</body>
+</html>
