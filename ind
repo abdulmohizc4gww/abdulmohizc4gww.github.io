@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio - Web Programming</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+        header { background: #2c3e50; color: white; text-align: center; padding: 40px 20px; }
+        section { padding: 40px 20px; max-width: 900px; margin: auto; }
+       .section-box { border: 1px solid #ddd; margin-bottom: 30px; padding: 25px; border-radius: 8px; }
+        h2 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        footer { background: #2c3e50; color: white; text-align: center; padding: 20px; }
+        a { color: #3498db; text-decoration: none; font-weight: bold; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Personal Website</h1>
+        <p>Web Programming Course Portfolio</p>
+    </header>
+
+    <section>
+        <!-- Section 1: About Me -->
+        <div class="section-box">
+            <h2>About Me</h2>
+            <p>Hello! My name is Mohiz Abdul . I am a student currently studying web programming.
+            I am passionate about building websites, learning new technologies, and solving real-world problems using code.
+            This website is part of my coursework to demonstrate my skills in HTML, CSS, and web deployment using GitHub Pages.</p>
+        </div>
